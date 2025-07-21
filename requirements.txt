@@ -2,4 +2,6 @@ pandas
 seaborn
 numpy
 tensorflow
+streamlit
+
 -e .
